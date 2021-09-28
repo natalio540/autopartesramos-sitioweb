@@ -1,0 +1,28 @@
+[
+    {
+      "Id": "10AV1000",
+      "Marca": "FORD",
+      "Tipo": "TIPO",
+      "Elemento": "CORREAS TRAPEZOIDALES",
+      "Modelo": "COR Ford Taunus Sierra 2.0 2.3",
+      "Precio": "778.67",
+      "Hora": "21.00;"
+    },
+    {
+      "Id": "10AV1000",
+      "Marca": "PEUGEOT",
+      "Tipo": "TIPO",
+      "Elemento": "CORREAS TRAPEZOIDALES",
+      "Modelo": "COR Peugeot 505 SRI -",
+      "Precio": "778.67",
+      "Hora": "21.00;"
+    },{
+      "Id": "10AV1000",
+      "Marca": "FORD",
+      "Tipo": "TIPO",
+      "Elemento": "CORREAS TRAPEZOIDALES",
+      "Modelo": "COR Ford Taunus Sierra 2.0 2.3",
+      "Precio": "778.67",
+      "Hora": "21.00;"
+    }
+]
